@@ -2,19 +2,19 @@
 ABC Company Employee Data Analysis
 A comprehensive data analysis project analyzing employee demographics, team distribution, positions, age groups, and salary patterns for ABC Company.
 
-📊 Project Overview
+*Project Overview
 This project analyzes a dataset of 458 employees across 9 columns to provide detailed insights into the company's workforce structure, salary distribution, and demographic patterns. The analysis includes data preprocessing, exploratory data analysis (EDA), and visualization of key metrics.
 
-🎯 Project Objectives
+*Project Objectives
 The analysis aims to answer the following business questions:
 
 Team Distribution Analysis
 
-Count of employees in each team
+*Count of employees in each team
 Percentage distribution of employees across teams
 Position Segregation
 
-Distribution of employees across different positions
+*Distribution of employees across different positions
 Position-wise employee count
 Age Group Analysis
 
